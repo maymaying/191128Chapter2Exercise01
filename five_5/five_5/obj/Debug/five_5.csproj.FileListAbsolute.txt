@@ -1,0 +1,6 @@
+E:\C#代码\计科1702-41709010221-梅莹莹\C#作业\five_5\five_5\bin\Debug\five_5.exe.config
+E:\C#代码\计科1702-41709010221-梅莹莹\C#作业\five_5\five_5\bin\Debug\five_5.exe
+E:\C#代码\计科1702-41709010221-梅莹莹\C#作业\five_5\five_5\bin\Debug\five_5.pdb
+E:\C#代码\计科1702-41709010221-梅莹莹\C#作业\five_5\five_5\obj\Debug\five_5.exe
+E:\C#代码\计科1702-41709010221-梅莹莹\C#作业\five_5\five_5\obj\Debug\five_5.pdb
+E:\C#代码\计科1702-41709010221-梅莹莹\C#作业\five_5\five_5\obj\Debug\five_5.csprojResolveAssemblyReference.cache

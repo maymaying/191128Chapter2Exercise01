@@ -1,0 +1,5 @@
+E:\C#代码\计科1702-41709010221-梅莹莹\C#作业\five-2\five-2\bin\Debug\five-2.exe.config
+E:\C#代码\计科1702-41709010221-梅莹莹\C#作业\five-2\five-2\bin\Debug\five-2.exe
+E:\C#代码\计科1702-41709010221-梅莹莹\C#作业\five-2\five-2\bin\Debug\five-2.pdb
+E:\C#代码\计科1702-41709010221-梅莹莹\C#作业\five-2\five-2\obj\Debug\five-2.exe
+E:\C#代码\计科1702-41709010221-梅莹莹\C#作业\five-2\five-2\obj\Debug\five-2.pdb

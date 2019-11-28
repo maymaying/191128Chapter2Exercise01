@@ -1,0 +1,5 @@
+E:\C#代码\计科1702-41709010221-梅莹莹\C#作业\four_3\four_3\bin\Debug\four_3.exe.config
+E:\C#代码\计科1702-41709010221-梅莹莹\C#作业\four_3\four_3\bin\Debug\four_3.exe
+E:\C#代码\计科1702-41709010221-梅莹莹\C#作业\four_3\four_3\bin\Debug\four_3.pdb
+E:\C#代码\计科1702-41709010221-梅莹莹\C#作业\four_3\four_3\obj\Debug\four_3.exe
+E:\C#代码\计科1702-41709010221-梅莹莹\C#作业\four_3\four_3\obj\Debug\four_3.pdb
